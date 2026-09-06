@@ -1,8 +1,8 @@
-INVESTIGATION NOTE
+🔎 INVESTIGATION NOTE
 
-A piece of evidence has been recovered.
+The evidence contains something hidden in plain sight.
 
-Inspect the image carefully.
-Something is hidden in plain sight.
+Inspect the image very carefully.
 
-Follow the clue to reach the final flag.
+Once you find the hidden ID,
+follow it to discover the final flag. 🏁
