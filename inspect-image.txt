@@ -1,0 +1,8 @@
+INVESTIGATION NOTE
+
+A piece of evidence has been recovered.
+
+Inspect the image carefully.
+Something is hidden in plain sight.
+
+Follow the clue to reach the final flag.
