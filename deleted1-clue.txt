@@ -1,0 +1,7 @@
+FORENSICS CLUE FOUND!
+
+The next challenge is hidden in an image.
+
+Look for an image file and inspect it carefully.
+
+Next step: IMAGE + TXT
